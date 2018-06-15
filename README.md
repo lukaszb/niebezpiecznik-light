@@ -1,6 +1,9 @@
 Czytaj artykuły z niebezpiecznik.pl na jasnym tle.
 
-Przygotowanie przed uploadem:
+### Jak dodać extension lokalnie
+
+![Jak dodać extension lokalnie](./how-to-add-extension.png?raw=true)
+
+### Przygotowanie przed uploadem:
 
     $ zip -r niebezpiecznik-light.zip manifest.json styles.css
-
